@@ -25,7 +25,8 @@
 
 ## Network Topology
 The network topology diagram outlines the connectivity framework between the headquarters (Thu Duc) and the branch office (District 3), encompassing routers, switches, the Data Center, and subnets for departments, Wi-Fi, and site-to-site VPN.
-<img width="1500" alt="Topology (3)" src="https://github.com/user-attachments/assets/b81daded-f105-49d3-9407-2049fa34e613" />
+![Network Topology Diagram](https://github.com/user-attachments/assets/436ed20e-ab74-45ff-a972-f011ae8f9aeb)
+
 
 ## IP Address Allocation
 
